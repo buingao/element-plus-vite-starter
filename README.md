@@ -1,4 +1,4 @@
-# element-plus-vite-starter
+# {{name}}
 
 > A starter kit for Element Plus with Vite
 
@@ -33,9 +33,8 @@ npm run build
 ## Usage
 
 ```bash
-git clone https://github.com/element-plus/element-plus-vite-starter
-cd element-plus-vite-starter
-npm i
+cd {{name}}
+npm install
 npm run dev
 ```
 
